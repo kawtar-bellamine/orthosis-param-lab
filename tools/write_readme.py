@@ -28,7 +28,7 @@ pf05, pf50, pfmin = S["art_plantar_free_p05_p50_min"]
 README = f"""<p align="center"><img src="docs/figures/banner.png" alt="Orthosis Param Lab" width="100%"></p>
 
 <p align="center">
-<a href="https://github.com/Abderrahmane-BOULAMI/orthosis-param-lab/actions"><img src="https://github.com/Abderrahmane-BOULAMI/orthosis-param-lab/actions/workflows/tests.yml/badge.svg" alt="tests"></a>
+<a href="https://github.com/kawtar-bellamine/orthosis-param-lab/actions"><img src="https://github.com/kawtar-bellamine/orthosis-param-lab/actions/workflows/tests.yml/badge.svg" alt="tests"></a>
 <img src="https://img.shields.io/badge/python-3.12-00909C" alt="python">
 <img src="https://img.shields.io/badge/data-ANSUR%20II%20·%206%2C068%20people-14213D" alt="data">
 <img src="https://img.shields.io/badge/exports-STL%20·%203MF%20·%20Rhino%20.3dm-C2410C" alt="exports">
